@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/Dashboard.js": "/Dashboard.js",
+    "/Login.js": "/Login.js",
+    "/Orders.js": "/Orders.js",
+    "/Product.js": "/Product.js",
+    "/Profile.js": "/Profile.js",
+    "/Register.js": "/Register.js",
+    "/Reports.js": "/Reports.js",
+    "/Supplier.js": "/Supplier.js",
+    "/Users.js": "/Users.js",
+    "/vendors~Orders~Product.js": "/vendors~Orders~Product.js",
+    "/vendors~Reports~Users.js": "/vendors~Reports~Users.js"
+}
